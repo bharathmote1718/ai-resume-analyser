@@ -1,0 +1,15 @@
+# Java / Maven
+backend/target/
+backend/.mvn/
+*.class
+
+# Node / Vite
+ai-resume-analyzer-frontend/node_modules/
+ai-resume-analyzer-frontend/dist/
+ai-resume-analyzer-frontend/.vite/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
